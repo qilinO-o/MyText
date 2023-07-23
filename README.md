@@ -1,4 +1,4 @@
-### 从项目介绍
+### 项目介绍
 参考mit http://web.mit.edu/~yandros/doc/craft-text-editing/ 完成的vim项目
 ### 使用指南
 `:q` 回车退出程序\
