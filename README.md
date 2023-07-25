@@ -1,7 +1,7 @@
 ### 项目介绍
-参考mit http://web.mit.edu/~yandros/doc/craft-text-editing/ 完成的vim项目
-`text_display.h` 封装所有控制台显示逻辑，使用windows console API直接对控制台缓冲区进行操作
-`sub_editor.h` 封装所以编辑器逻辑，包含文本，光标，操作栈等数据结构和相应的操作
+参考mit http://web.mit.edu/~yandros/doc/craft-text-editing/ 完成的vim项目\
+`text_display.h` 封装所有控制台显示逻辑，使用windows console API直接对控制台缓冲区进行操作\
+`sub_editor.h` 封装所以编辑器逻辑，包含文本，光标，操作栈等数据结构和相应的操作\
 `MyText.cpp` 程序入口，包含vim-like的指令逻辑以及对上述两者类的创建与调用
 
 ### 使用指南
